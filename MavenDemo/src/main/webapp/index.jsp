@@ -7,13 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form>
-Name: <input type="text" >
-Password: <input type="password">
-<input type="submit" value="send">
-
-
-</form>
+welcome user
 </body>
 
 </html>
